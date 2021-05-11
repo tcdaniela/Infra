@@ -175,7 +175,7 @@
             "value": "admind"
         },
         "sqlAuthenticationPassword": {
-            "value": null
+            "value": "Passwordmyapp1"
         },
         "dataPath": {
             "value": "F:\\data"
