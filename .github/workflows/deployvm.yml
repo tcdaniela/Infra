@@ -7,7 +7,7 @@ env:
   AZURE_RESOURCE_GROUP: RGm
 
 jobs:
-  deploy-virtual-network-template:
+  deploy-vm-template:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source code
